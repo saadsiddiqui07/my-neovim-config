@@ -18,6 +18,8 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'morhetz/gruvbox'
   Plug 'airblade/vim-gitgutter'
   Plug 'dart-lang/dart-vim-plugin'
+  Plug 'leafgarland/typescript-vim'
+  Plug 'peitalin/vim-jsx-typescript'
 
 call plug#end()
 
