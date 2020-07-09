@@ -17,6 +17,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'lilydjwg/colorizer'
   Plug 'morhetz/gruvbox'
   Plug 'airblade/vim-gitgutter'
+  Plug 'dart-lang/dart-vim-plugin'
 
 call plug#end()
 
